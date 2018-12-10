@@ -1,0 +1,27 @@
+.date-cell {
+  border: 1px solid #CCC;
+  float: left;
+  width: 13.5%;
+}
+
+.date-cell.disabled {
+  opacity: .5;
+  background-color: #ddd;
+}
+
+.navigate {
+  padding: 10px 0;
+}
+
+.navigate div {
+  width: 50%;
+  display: inline-block;
+}
+
+.month-year-dropdown select {
+  width: 45.5%;
+}
+
+button {
+  margin: 0 10px;
+}
